@@ -9,5 +9,30 @@ h1, h2, h3, h4, h5, h6 {
 p {
     font-family: 'Poppins', serif;
     font-size: 1.2rem;
+    text-align: justify;
 }
 
+.links {
+    color: #2E4E3D;
+    text-decoration: none;
+}
+
+.table th {
+    background-color: #2E4E3D;
+    color: ivory;
+    font-family: 'Baloo 2', serif;
+}
+
+.table td {
+    background-color: #C2DCC2;
+    font-family: 'Poppins', serif;
+}
+
+#headline {
+    align-items: center;
+    justify-content: center;
+}
+
+#dynamicSection {
+    font-family: 'Baloo 2', serif;
+}
