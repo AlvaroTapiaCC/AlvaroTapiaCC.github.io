@@ -28,6 +28,11 @@ p {
     font-family: 'Poppins', serif;
 }
 
+.btn-primary {
+    background-color: #2E4E3D;
+    border-color: #2E4E3D;
+}
+
 #headline {
     align-items: center;
     justify-content: center;
